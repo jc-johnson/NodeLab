@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/jc-johnson/NodeLab/issues"
   },
-  "homepage": "https://github.com/jc-johnson/NodeLab#readme"
+  "homepage": "https://github.com/jc-johnson/NodeLab#readme",
+  "engines": {
+	"node": "8.9.1"
+  }
 }
